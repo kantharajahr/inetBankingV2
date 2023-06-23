@@ -1,0 +1,23 @@
+Internet Banking?
+In Internet banking, bother customers and organizations use an electronic method for money transfer using a web application. Currently, in the 21st century, most people are using this method for money transfer because it’s faster, and also no need to wait for a long time in the queue to do a single transaction.
+
+Using this method, you can able various operation-related money transfers like receiving money, paying bills, and many other operations. But when dealing with any bank application, the developer and testers ensure the app runs smoothly on all browsers and devices. And the web application also secures all cyber threats, and the performance doesn’t go down during peak business hours.
+
+How to validate a banking application?
+To validate a banking application, you must perform various tests to ensure that the application is functioning correctly and meeting the requirements. Some general steps to follow when validating a banking application include:
+
+Review the requirements: Review the requirements for the application to ensure that you understand what the application is expected to do.
+Create a test plan: Develop a plan that outlines the tests you will perform on the application. This should include the test cases you will run, the data you will use, and the expected results.
+Set up a test environment: Set up a test environment that mimics the production environment as closely as possible. This will allow you to test the application under realistic conditions.
+Run the tests: Execute the tests outlined in your test plan and record the results.
+Analyze the results: Review the results of the tests to determine whether the application is functioning correctly.
+Report the results: Document the tests’ results and any identified issues. This will help the development team identify and fix any problems with the application.
+Repeat as needed: Depending on the complexity of the application, you may need to repeat this process multiple times to ensure that the application is thoroughly tested and validated.
+Bank Application Testing
+There are several aspects QA specialists prioritize when testing any Bank Application:
+
+Functionality Testing: All modules are working as expected (both as an independent element & after integrating all separate modules)
+Usability Testing: Most of the time, those using banking applications are not proficient PC users. So for them, the form should be clear and have a user-friendly interface.
+Performance Testing: As this is developed for the users, the application’s performance should be faster. And the app should be working correctly on various platforms.
+Security Testing: By using a banking application, people will use it for money transfers. So it’s one of the high-priority tasks for the organization to develop the app in such a way that it meets standard security guidelines.
+So in this post, we are going to discuss the natural flow of the Bank Application with some basic scenarios:
