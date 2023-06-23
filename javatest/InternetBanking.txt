@@ -21,3 +21,22 @@ Usability Testing: Most of the time, those using banking applications are not pr
 Performance Testing: As this is developed for the users, the application’s performance should be faster. And the app should be working correctly on various platforms.
 Security Testing: By using a banking application, people will use it for money transfers. So it’s one of the high-priority tasks for the organization to develop the app in such a way that it meets standard security guidelines.
 So in this post, we are going to discuss the natural flow of the Bank Application with some basic scenarios:
+
+
+
+
+Test Steps for Bank Transactions
+So here are the necessary steps which we follow when we perform any currency transfer operation:
+
+Go to the bank website login page.
+Input username and password.
+Go to the money transfer page.
+Add the beneficiary to whom you want to transfer money.
+Check the details of the bank account and person. Verify if they are correct.
+Select the specific money transfer method from NEFT/RTGS or SWIFT transfer options.
+Select the beneficiary name and funds, and then submit the details.
+Verify the amount and other details on the verification page.
+Click submit for the final action of the fund transfer.
+Whatever steps you see above are the fundamental flow we cover here. And maybe if you go to another region, it may differ from the above scenario.
+
+For example, some of you may have SMS authentication before sending the money. Some of you will likely have other means of verifying the beneficiary details to avoid sending the money to the wrong person. But in most of the banks, the flow is pretty much the same for most banks.
